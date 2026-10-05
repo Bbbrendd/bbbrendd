@@ -6,38 +6,38 @@ Backend Developer based in St. Petersburg, Russia 🇷🇺. Passionate about bui
 
 ### 💻 About Me
 
-* 🎯 **Focus:** Backend Engineering, System Architecture & Database Optimization[cite: 1]
-* 📍 **Location:** St. Petersburg, Russia[cite: 1]
-* 🏋 **Interests:** Gym, Powerlifting, Clean Code, Open Source[cite: 1]
+* 🎯 **Focus:** Backend Engineering, System Architecture & Database Optimization
+* 📍 **Location:** St. Petersburg, Russia
+* 🏋 **Interests:** Gym, Powerlifting, Clean Code, Open Source
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, C++, Go, SQL, Bash, JavaScript / Node.js[cite: 1]
-* **Frameworks & APIs:** FastAPI, Django, Gin, REST APIs, gRPC[cite: 1]
-* **Databases & Caching:** PostgreSQL, Redis, MongoDB, SQLAlchemy[cite: 1]
-* **DevOps & Infrastructure:** Docker, Docker Compose, Linux (Arch/Ubuntu), Git, NGINX[cite: 1]
-* **Message Brokers:** RabbitMQ, Celery[cite: 1]
+* **Languages:** Python, C++, Go, SQL, Bash, JavaScript / Node.js
+* **Frameworks & APIs:** FastAPI, Django, Gin, REST APIs, gRPC
+* **Databases & Caching:** PostgreSQL, Redis, MongoDB, SQLAlchemy
+* **DevOps & Infrastructure:** Docker, Docker Compose, Linux (Arch/Ubuntu), Git, NGINX
+* **Message Brokers:** RabbitMQ, Celery
 
 ---
 
 ### 📌 Featured Projects
 
-* 🚀 **[Async API Gateway](#)** – Scalable REST API with FastAPI, Redis caching, and PostgreSQL[cite: 1].
-* 🔐 **[Auth Microservice](#)** – Secure authentication service featuring JWT and Argon2 password hashing[cite: 1].
-* 📦 **[Distributed Task Engine](#)** – Background job processor using Python, Celery, and RabbitMQ[cite: 1].
+* 🚀 **[Async API Gateway](#)** – Scalable REST API with FastAPI, Redis caching, and PostgreSQL.
+* 🔐 **[Auth Microservice](#)** – Secure authentication service featuring JWT and Argon2 password hashing.
+* 📦 **[Distributed Task Engine](#)** – Background job processor using Python, Celery, and RabbitMQ.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbbrendd&show_icons=true&theme=tokyonight)[cite: 1]  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbbrendd&layout=compact&theme=tokyonight)[cite: 1]
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbbrendd&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbbrendd&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📬 Connect With Me
 
 * 📧 **Email:** [bwoodbbrendd@gmail.com](mailto:bwoodbbrendd@gmail.com)
-* 🌐 **GitHub:** [github.com/Bbbrendd](https://github.com/Bbbrendd)[cite: 1]
+* 🌐 **GitHub:** [github.com/Bbbrendd](https://github.com/Bbbrendd)
